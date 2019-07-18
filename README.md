@@ -193,7 +193,7 @@ Array.initialize 5
 ```
 
 [1]: https://package.elm-lang.org/packages/ianmackenzie/elm-units/latest/Quantity
-[2]: https://package.elm-lang.org/packages/ianmackenzie/elm-geometry/latest
+[2]: https://package.elm-lang.org/packages/ianmackenzie/elm-geometry/latest/Point2d
 [3]: https://package.elm-lang.org/packages/avh4/elm-color/latest/Color
 [4]: https://package.elm-lang.org/packages/ianmackenzie/elm-float-extra/latest/Float-Extra#interpolateFrom
 [5]: https://package.elm-lang.org/packages/ianmackenzie/elm-units/latest/Quantity#interpolateFrom

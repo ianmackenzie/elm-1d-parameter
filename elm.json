@@ -3,7 +3,7 @@
     "name": "ianmackenzie/elm-1d-parameter",
     "summary": "Generate evenly spaced interpolated values",
     "license": "MPL-2.0",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "exposed-modules": [
         "Parameter1d",
         "Parameter1d.Array"

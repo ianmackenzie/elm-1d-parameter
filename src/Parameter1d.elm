@@ -40,20 +40,16 @@ the results as a list:
 
 You can read this as "take 4 steps to interpolate from 10 to 20". More generally,
 
-```elm
-Parameter1d.steps 4 someFunction
-```
+    Parameter1d.steps 4 someFunction
 
 will return
 
-```elm
-[ someFunction 0.0
-, someFunction 0.25
-, someFunction 0.5
-, someFunction 0.75
-, someFunction 1.0
-]
-```
+    [ someFunction 0.0
+    , someFunction 0.25
+    , someFunction 0.5
+    , someFunction 0.75
+    , someFunction 1.0
+    ]
 
 Note that the results do not themselves have to be `Float`s:
 
